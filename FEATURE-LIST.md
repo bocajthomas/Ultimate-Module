@@ -13,7 +13,6 @@
 - Choose between S22 Ultra and S24 Ultra wallpapers (S24 Ultra wallpapers includes AOD -> lock screen -> home screen transition)
 - S25 spoof
 - Ported One UI 8.5 apps
-- One UI 8.5 spoof (Note: this will enable blur across the updated One UI 8.5 apps, however, some Good Lock modules like Home up may not open.)
 
 ## Camera features
 - LOG & selfie LOG video recording
