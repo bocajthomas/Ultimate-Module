@@ -22,4 +22,3 @@ Please see [List of features](/FEATURE-LIST.md) for more information
 > This module is tested pretty extensively. If you do everything correctly, it should not fail. HOWEVER, CyberK or anyone involved with the Ultimate module does not take responsibility if anything goes wrong with your device.
 >
 > If anything does go wrong, you, the user, take full responsibilty. Use at your own risk!  
-> <sub>~~If anything goes wrong, it's also Gabi's fault~~</sub> 
