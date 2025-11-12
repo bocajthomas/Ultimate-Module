@@ -4,7 +4,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram%20Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CyberK_Stuff) [![TelegramDiscussion](https://img.shields.io/badge/Telegram%20Discussion%20Group-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CyberK_Stuff_Discussion)  
 [![GitHub](https://img.shields.io/badge/github%20Download-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cyberk01/Ultimate-Module/main/releases/latest)
 
-The Ultimate S23 module aims to port features which are exclusive to newer devices, to S23 series devices.
+The Ultimate S23 module aims to port features which are exclusive to newer devices, such as Now brief, wallpaper AOD, Audio Eraser, etc. to S23 series devices.
 
 > [!IMPORTANT] 
 > The Ultimate module currently supports these devices:
