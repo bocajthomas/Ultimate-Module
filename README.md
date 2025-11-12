@@ -16,7 +16,7 @@ The Ultimate S23 module aims to port features which are exclusive to newer devic
 > There is also an ultimate module for S22 series devices. Please see the [S22 branch](/../S22X/) of this repo for the Ultimate S22 module.
 
 ## List of features
-Please see [List of features](/FEATURE-LIST.md) for more information
+Please see [FEATURE-LIST.md](/FEATURE-LIST.md) for more information
 
 > [!CAUTION]
 > This module is tested pretty extensively. If you do everything correctly, it should not fail. HOWEVER, CyberK or anyone involved with the Ultimate module does not take responsibility if anything goes wrong with your device.
